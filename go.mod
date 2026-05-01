@@ -1,3 +1,3 @@
-module github.com/kayden-vs/resumorph
+module resume-tailor
 
 go 1.25.5
